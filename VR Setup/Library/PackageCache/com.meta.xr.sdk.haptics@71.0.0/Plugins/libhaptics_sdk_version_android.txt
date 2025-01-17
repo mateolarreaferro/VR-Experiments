@@ -1,0 +1,1 @@
+Haptics Native SDK 1.0.0-beta.2 (9e559931629d+), built on 2024-09-20T09:05:48Z for Android
